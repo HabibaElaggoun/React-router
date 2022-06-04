@@ -1,0 +1,29 @@
+body{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url("phot.jpg");
+  
+}
+
+
+  .App {
+  padding-top: 20px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: rgb(67, 219, 186);
+  text-align: center;
+}
+.App:hover{
+  color: rgb(206, 123, 226);
+ 
+}
+
+
+
+
+
+
+
+
+
+
